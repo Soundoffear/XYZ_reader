@@ -36,7 +36,6 @@
                     app:layout_collapseParallaxMultiplier="0.7"
                     android:contentDescription="@string/article_picture"/>
 
-
             </FrameLayout>
 
             <android.support.v7.widget.Toolbar
